@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
+    background-color: rgb(7, 7, 7);
     color: #555;
 }
 header {
@@ -26,13 +26,13 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(21, 156, 50);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: rgb(155, 84, 137);
     background-color: lightblue;
     padding: 3px;
 }
